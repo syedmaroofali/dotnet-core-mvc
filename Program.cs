@@ -9,7 +9,7 @@ namespace WebApplication
 {
     public class Program
     {
-        //This version 0.1
+        //This version 0.2
         public static void Main(string[] args)
         {
             var host = new WebHostBuilder()
