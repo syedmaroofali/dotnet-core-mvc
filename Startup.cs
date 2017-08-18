@@ -15,7 +15,7 @@ using WebApplication.Services;
 
 namespace WebApplication
 {
-    //triggrt builf
+   
     public class Startup
     {
         public Startup(IHostingEnvironment env)
